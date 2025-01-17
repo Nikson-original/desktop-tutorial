@@ -1,6 +1,20 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+1. Название проекта
+Password_generator
+2. Описание (README.md)
+Программа генерации паролей, может быть использована при регистрации на каких-либо сайтах
+Березовский Богдан, Кирилл Фёдоров
+Основные функции:
+Генерация сложного пароля, всегда имеет хотя-бы 1 символ, 1 заглавную букву и 1 цифру.
+3. Структура проекта
+password.py: Главный файл для запуска.
+static/ и templates/ (для веб-приложений): Статические файлы и шаблоны.
+4. Инструкции по запуску
+pip install flask
+5. Примеры использования
 ![Screenshot 2025-01-17 133157](https://github.com/user-attachments/assets/7cde754c-78a9-4414-aebb-58bb3ed29ac8)
+6. Технические требования
+Зависит от версии Python
+7. Лицензия
+-
+8. Контакты
+bohdan.berezovskyi@ivkhk.ee
