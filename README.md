@@ -10,7 +10,8 @@ Animal-Scanner
 <p>index.html и index.css (для веб-приложений): Статические файлы и шаблоны.</p>
 <p>uploads: для хранения фото, и загрузки их оттуда</p>
 <h1>4. Инструкции по запуску</h1>
-<p>pip install tensorflow opencv-python matplotlib flask numpy</p>
+<p>pip install tensorflow opencv-python matplotlib flask numpy werkzeug установить в cmd</p>
+<p>Запустить Visual Studio Code, запустить код (Ctrl+alt+N), перейти по указаному id в коммандной строке, а точнее http://127.0.0.1:5000</p>
 <h1>5. Примеры использования</h1>
 <p>Заходите на сайт, нажимаете choose file, выбираете, выгружается процентное соотношение породы, или животного, на кого похоже, выводится 5 результатов.</p>
 <h1>6. Технические требования</h1>
